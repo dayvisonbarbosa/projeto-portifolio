@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* 
   Variáveis para cores:
   --fundo-principal
@@ -8,9 +10,6 @@
   --fundo-card
 */
 
-@charset "UTF-8";
-
 body {
-  background-color: lightgrey;
-  color: darkblue;
+  
 }
