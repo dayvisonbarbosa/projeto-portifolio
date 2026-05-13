@@ -181,7 +181,7 @@ article h2 {
   border-radius: 4px;
 }
 
-#formacao-container {
+#formacao-c {
   display: flex;
   flex-direction: column-reverse;
   gap: 20px;
